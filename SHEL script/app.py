@@ -7,7 +7,7 @@ tm = 5
 
 try:
 	while True:
-		print('Codigo feito Por Kauan Costa Silva ')
+		print('Codigo feito Por Kauan Costa Silva e Pedro Rosendo')
 
 		if sy == 'Linux':
 			print('======================================')
