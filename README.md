@@ -1,3 +1,4 @@
-muito obrigado por usar nosso shell valeu!!!
+muito obrigado por usar nosso shell espero que gostem valeu tmj !!!
 
-kauan e pedro 
+vao la no git do pedro https://github.com/PEDROTUBER44
+
