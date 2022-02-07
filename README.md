@@ -1,4 +1,3 @@
-muito obrigado por usar o meu shell espero que gostem valeu tmj !!!
+Um Simples App para Linux e Windows 
 
-vao la no git do pedro https://github.com/PEDROTUBER44
-
+A Simple App for Linux and Windows
